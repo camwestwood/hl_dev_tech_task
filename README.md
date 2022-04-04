@@ -1,4 +1,4 @@
-# Hargreaves Lansdown Tech TASKHL dev tech task
+# Hargreaves Lansdown Tech TASK
 
 * [Task 1 - XYZ Bank](#task_1)
 * [Task 2 - XYZ Bank (SQL query)](#task_2)
