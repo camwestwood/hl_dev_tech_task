@@ -1,5 +1,9 @@
 # Hargreaves Lansdown Tech Task
 
+
+Please find a .docx version of these answers here if preferred: [hargreaves_lansdown_tech_task.docx](hargreaves_lansdown_tech_task.docx)
+
+
 * [Task 1 - XYZ Bank](#task_1)
 * [Task 2 - XYZ Bank (SQL query)](#task_2)
 * [Task 3 - XYZ Bank (SQL query to return customers with no accounts)](#task_3)
