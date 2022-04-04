@@ -98,5 +98,3 @@ Link to Python code:
 * [IMDb code](task_6_imdb_code/)
 
 * [main.py file](task_6_imdb_code/main.py)
-
-Pseudo code version
