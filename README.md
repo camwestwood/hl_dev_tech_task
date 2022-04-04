@@ -63,6 +63,7 @@ A data stage process was previously taking 10 minutes to run.  Now it’s taking
 ## Task_6
 
 Link to Python code:
-[IMDb code](https://choosealicense.com/licenses/mit/)
+[IMDb code](task_6_imdb_code/)
+[main.py file](task_6_imdb_code/main.py)
 
 Pseudo code version
