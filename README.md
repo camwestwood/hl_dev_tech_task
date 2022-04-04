@@ -20,7 +20,8 @@ wWriting
 
 XYZ Bank (SQL query to return multiple accounts)
 
-```SELECT a.customer_id, c.total_balance, COUNT(a.customer_id) AS no_of_accounts
+```
+SELECT a.customer_id, c.total_balance, COUNT(a.customer_id) AS no_of_accounts
 FROM accounts a
 INNER JOIN customers c ON (s.customer_id = a.customer_id)
 GROUP BY a.customer_id
@@ -32,7 +33,8 @@ ORDER BY no_of_accounts DESC;
 
 XYZ Bank (SQL query to return customers with no accounts)
 
-```SELECT a.customer_id
+```
+SELECT a.customer_id
 FROM accounts a
 WHERE a.customer_id NOT IN
     (SELECT c.customer_id 
@@ -41,7 +43,8 @@ WHERE a.customer_id NOT IN
 
 OR
 
-```SELECT a.customer_id
+```
+SELECT a.customer_id
 FROM accounts a 
 WHERE NOT EXISTS 
     (SELECT * 
