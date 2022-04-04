@@ -81,7 +81,7 @@ It is worth mentioning that I could make use of further mapping tables (such as 
 
 ## Task_5
 
-**A data stage process was previously taking 10 minutes to run.  Now it’s taking an hour to complete.  Detail the possible causes and how you would determine which was responsible**
+**5. A data stage process was previously taking 10 minutes to run.  Now it’s taking an hour to complete.  Detail the possible causes and how you would determine which was responsible**
 
 A data stage process was previously taking 10 minutes to run.  Now it’s taking an hour to complete.  Detail the possible causes and how you would determine which was responsible
 
@@ -98,7 +98,7 @@ We could have a look at the scheduling of the task if it is running at a particu
 
 ## Task_6
 
-**Using the coding language of your choice (not SQL): import name.basics.tsv.gz from IMDb and find the number of who are still alive and have the first of their 3 primary professions as producer. Ideally, your code should compile and run without errors. If you are unable to produce workable code, we will accept a pseudo-code version.**
+**6. Using the coding language of your choice (not SQL): import name.basics.tsv.gz from IMDb and find the number of who are still alive and have the first of their 3 primary professions as producer. Ideally, your code should compile and run without errors. If you are unable to produce workable code, we will accept a pseudo-code version.**
 
 
 I've created this in Python using PyCharm IDE, using the dataset available here: https://datasets.imdbws.com/
