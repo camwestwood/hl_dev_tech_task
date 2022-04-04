@@ -1,11 +1,11 @@
-# Hargreaves Lansdown Tech TASK
+# Hargreaves Lansdown Tech Task
 
 * [Task 1 - XYZ Bank](#task_1)
 * [Task 2 - XYZ Bank (SQL query)](#task_2)
 * [Task 3 - XYZ Bank (SQL query to return customers with no accounts)](#task_3)
-* [Task 4 - ](#task_4)
-* [Task 5 - ](#task_5)
-* [Task 6 - ](#task_6)
+* [Task 4 - ABC ltd Data Warehouse model](#task_4)
+* [Task 5 - Data stage process](#task_5)
+* [Task 6 - IMDb Python task (link to code)](#task_6)
 
 
 ## Task_1
