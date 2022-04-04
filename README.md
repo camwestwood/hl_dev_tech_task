@@ -11,7 +11,7 @@
 ## Task_1
 
 
-wWriting 
+I would set up the Customers in one table and Accounts in another table so that the data is normalised and ensure that there is a one-to-many Foreign key link between the two tables so that we can link customers to their accounts without duplicating the customer’s details in the database (see entity relationship diagram below): 
 
 ![XYZ Bank entity relationship diagram](xyz_bank_erd.png "XYZ Bank entity relationship diagram")
 
