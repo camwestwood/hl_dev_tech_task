@@ -13,7 +13,7 @@
 
 wWriting 
 
-![XYZ Bank entity relationship diagram](/images/xyz_bank_erd.png "XYZ Bank entity relationship diagram")
+![XYZ Bank entity relationship diagram](xyz_bank_erd.png "XYZ Bank entity relationship diagram")
 
 
 ## Task_2 
