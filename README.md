@@ -89,6 +89,10 @@ We could have a look at the scheduling of the task if it is running at a particu
 
 ## Task_6
 
+I've created this in Python using PyCharm IDE, using the dataset available here: https://datasets.imdbws.com/
+
+The only package requirements are Pandas.
+
 Link to Python code:
 
 * [IMDb code](task_6_imdb_code/)
